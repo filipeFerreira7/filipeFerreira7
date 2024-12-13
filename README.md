@@ -1,7 +1,11 @@
 # Filipe Ferreira, 19
 
-- Back-end developer
-- Information System 4/8 🕰️
+- Java Back-end developer
+- Information System 5/8 🕰️
+- Me chamo Filipe, atualmente trabalho com a linguagem Java usando frameworks em alta, como Spring e Quarkus. Estudo a linguagem java há dois anos e busco me especializar em programação Web
+- My name is Filipe. Recently, I have been working with Java programming, using trending frameworks such as Spring and Quarkus. I have been studying Java for two years and I am seeking to become a specialist in Web programming.
+  
+
           
   <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipeFerreira7&show_icons=true&theme=react)
@@ -22,6 +26,7 @@
   <img src="https://pt.quarkus.io/assets/images/brand/quarkus_icon_default.svg" height="40" alt="Quarkus" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
 </div>
 
 </div>
