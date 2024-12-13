@@ -29,6 +29,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
 </div>
 
+
+<h3>Skills: </h3>
+<h4><b>Java Programming Language</b></h4>
+<h4><b>JPA Hibernate</b></h4>
+<h4><b>JDBC</b></h4> 
+<h4><b>Bean Validation</b></h4> 
 </div>
 
 ###
