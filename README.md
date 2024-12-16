@@ -34,7 +34,7 @@
 <h4><b>Java Programming Language</b></h4>
 <h4><b>JPA Hibernate</b></h4>
 <h4><b>JDBC</b></h4> 
-<h4><b>Bean Validation</b></h4> 
+<h4><b>SpringBoot</b></h4> 
 </div>
 
 ###
