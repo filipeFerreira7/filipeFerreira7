@@ -32,7 +32,9 @@
 
 <h3>Skills: </h3>
 <h4><b>Java Programming Language</b></h4>
+<h4><b>Maven</b></h4>
 <h4><b>JPA Hibernate</b></h4>
+<h4><b>Flyway Migrations</b></h4>
 <h4><b>JDBC</b></h4> 
 <h4><b>SpringBoot</b></h4> 
 <h4><b>Quarkus Framework</b></h4> 
