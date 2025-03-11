@@ -38,6 +38,8 @@
 <h4><b>JDBC</b></h4> 
 <h4><b>SpringBoot</b></h4> 
 <h4><b>Quarkus Framework</b></h4> 
+<h4><b>Docker</b></h4>
+<h4><b>Kubernetes</b></h4> 
 </div>
 
 ###
