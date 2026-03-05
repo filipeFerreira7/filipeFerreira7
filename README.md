@@ -7,11 +7,7 @@
 - My name is Filipe. Recently, I have been working with Java programming, using trending frameworks such as Spring and Quarkus. I have been studying Java for three years and I am seeking to become a specialist in Web programming.
 
 
-          
-  <br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=filipeFerreira7&show_icons=true&theme=react)
- <br>
- 
+
 <h3> <b> Languages: </b> </h3>
      <div style="display: flex; gap: 10px;">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -29,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo" style="margin-right: 12px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo" style="margin-right: 12px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" style="margin-right: 12px;" />
-  <img src="https://pt.quarkus.io/assets/images/brand/quarkus_icon_default.svg" height="40" alt="Quarkus" />
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
